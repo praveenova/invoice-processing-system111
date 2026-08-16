@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8080';
+const API_URL = 'https://invoice-processing-system111.onrender.com';
 
 export const getAllInvoices = async () => {
     try {
